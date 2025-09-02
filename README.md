@@ -132,7 +132,7 @@ By the end of this course, you will be able to:
 - Deliverables: Transfer learning pipeline, model card, documented code.
 
 ### **Capstone: Plugin-Backed Deployment** (Due Week 12)
-- Task: Deploy a trained model as a plugin (ChatGPT/VS Code).
+- Task: Deploy a trained model
 - Deliverables: FastAPI app + Docker container, plugin manifest, README, tests, basic CI.
 
 ---

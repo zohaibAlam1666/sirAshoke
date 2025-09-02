@@ -1,4 +1,3 @@
-# 🧠 Full-Stack Machine Learning with Python
 
 A 12-week hands-on course designed to take developers with a strong programming background (C# preferred) from Python fluency to building and deploying production-ready machine learning and NLP applications.
 

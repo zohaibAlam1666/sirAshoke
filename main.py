@@ -74,3 +74,5 @@ s1 = student("ali",14)
 s1.greet()
 s2 = student("ksdjfkls0", 3434)
 s2.greet()
+
+
